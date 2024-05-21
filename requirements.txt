@@ -1,6 +1,6 @@
 alabaster==0.7.12
 anaconda-client
-anaconda-project==0.10.1
+anaconda-project
 annotated-types==0.6.0
 anyio==3.5.0
 app-store-scraper==0.3.5
